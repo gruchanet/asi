@@ -46,6 +46,7 @@ Zespoły:
 1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
+1. [JSON Team](https://github.com/gruchanet/snippeter_on_steoids)
 
 Indywidualiści:
 
@@ -57,9 +58,7 @@ Indywidualiści:
 1. Bednarczyk, Marek.
 1. Bigda, Piotr.
 1. Borkowski, Maciej.
-1. Gafka, Dariusz.
 1. Gąsior, Łukasz.
-1. Józwiak, Roman.
 1. Kadłubowski, Paweł.
 1. Kąkol, Jan.
 1. Komorowski, Szymon.
@@ -82,7 +81,6 @@ Indywidualiści:
 1. Synowczyk, Piotr.
 1. Szklarska, Milena.
 1. Wittbrodt, Łukasz.
-1. Zawadzki, Dawid.
 1. Żuchowski, Sebastian.
 
 
